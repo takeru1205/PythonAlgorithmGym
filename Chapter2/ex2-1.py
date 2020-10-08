@@ -1,5 +1,7 @@
 """
 Binary Search(BS)
+
+1 + log_2(high - low + 1)
 """
 
 
